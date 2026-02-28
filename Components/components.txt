@@ -1,0 +1,9 @@
+Components Used
+
+Arduino Uno
+2 × IR Sensors
+LDR Module (Digital Output)
+4 × LEDs
+Resistors(220ohm)
+Breadboard
+Jumper Wires
