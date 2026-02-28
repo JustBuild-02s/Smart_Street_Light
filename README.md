@@ -7,15 +7,6 @@ Dual IR-based vehicle detection
 Automatic LED control
 Serial monitoring for debugging
 
-Components Used
-Arduino Uno
-2 × IR Sensors
-LDR Module (Digital Output)
-4 × LEDs
-Resistors
-Breadboard
-Jumper Wire
-
 Working Logic
 During bright conditions, LDR allows normal LED operation
 During dark conditions, LEDs respond to IR vehicle detection
