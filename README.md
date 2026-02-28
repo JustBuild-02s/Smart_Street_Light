@@ -27,9 +27,8 @@ IR sensors are active LOW, meaning:
 Object detected → LOW
 No object → HIGH
 That’s why your logic checks:
+ir1State == LOW
 
 
 ## Project Demo 🎥
 [![Watch the video](https://img.youtube.com/vi/qv2PcZE7lp8/0.jpg)](https://www.youtube.com/watch?v=qv2PcZE7lp8)
-ir1State == LOW
-
